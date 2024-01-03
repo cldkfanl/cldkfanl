@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=cldkfanl&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
-<div style="text-align: right;">
 
-한경국립대학교 제어공학 졸업
-
-학술동아리 Ubics 19기
-
-KG KAIROS 1기
+<div align="right">
+  
+한경국립대학교 제어공학 졸업 / 학술동아리 Ubics 19기 / KG KAIROS 1기
 
 </div>
-
 ---
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldkfanl&show_icons=true&theme=radical)
 
