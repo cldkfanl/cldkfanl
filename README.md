@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="right">
   
-한경국립대학교 제어공학 졸업 / 학술동아리 Ubics 19기 / KG KAIROS 1기
+한경국립대학교 제어공학 졸업 / 로봇공학전공 연구실 UbICS 19기 / KG KAIROS 1기
 
 </div>
 
