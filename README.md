@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldkfanl&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldkfanl)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cju1998)](https://solved.ac/cju1998)
