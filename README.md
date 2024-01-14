@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=cldkfanl&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
+
 <div align="right">
   
 한경국립대학교 제어공학 졸업 / 로봇공학전공 연구실 UbICS 19기 / KG KAIROS 1기
@@ -25,6 +26,6 @@ Here are some ideas to get you started:
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldkfanl&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cldkfanl)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cju1998)](https://solved.ac/cju1998)
