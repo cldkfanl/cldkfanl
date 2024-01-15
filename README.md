@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-//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
-
-  
 한경국립대학교 제어공학 졸업 / 로봇공학전공 연구실 UbICS 19기 / KG KAIROS 1기
 
 </div>
